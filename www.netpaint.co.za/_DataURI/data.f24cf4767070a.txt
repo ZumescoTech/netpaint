@@ -1,0 +1,1 @@
+chrome-extension://nomnoimacbncclfbnfaingniikblfbji/build/scripts/detector.js
